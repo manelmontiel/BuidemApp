@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BuidemApp</string>
+    <string name="tab_text_1">MAQUINAS</string>
+    <string name="tab_text_2">TIPOS MAQUINAS</string>
+    <string name="tab_text_3">ZONAS</string>
+    <string name="tab_text_4">MAPA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
